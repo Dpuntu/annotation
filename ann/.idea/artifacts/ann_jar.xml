@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ann:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ann_jar</output-path>
+    <root id="archive" name="ann.jar">
+      <element id="module-output" name="ann" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/data.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/squareup/javawriter/2.2.1/javawriter-2.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
